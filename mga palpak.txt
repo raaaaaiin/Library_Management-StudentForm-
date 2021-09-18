@@ -1,0 +1,43 @@
+com.CommandText = "Select from Stud_info where First_Name= '" + aw[0] + "'and Middle_Name= '" + aw[1] + "'and Last_Name= '" + aw[2] + "'and suffix= '" + aw[3] + "'and stud_level= '" + aw[4] + "'and stud_section= '" + aw[5] + "'and stud_sy= '" + aw[6] + "'" ;
+
+
+
+
+
+public void bookshowing()
+        {
+            _bookshow = new ShowBooks(this);
+            _bookshow.TopLevel = false;
+            _bookshow.TopMost = true;
+            booksmenu.Controls.Add(_bookshow);
+            _bookshow.Show();
+            booksmenu.Hide();
+        }
+
+ private void bunifuButton1_Click(object sender, EventArgs e)
+        {
+
+            ran_color();
+            colorgen gen = new colorgen(asd) { TopLevel = false };
+            flowLayoutPanel2.Controls.Add(gen);
+            panel1.BackColor = asd;
+            gen.Show();
+            arrColor[counter1] = asd;
+            counter1++;
+        }
+
+        private void bunifuButton2_Click(object sender, EventArgs e)
+        {
+            flowLayoutPanel2.Controls.Clear();
+            counter1 = 0;
+        }
+
+        private void bunifuButton5_Click(object sender, EventArgs e)
+        {
+            forshow();
+            counter2 = 0;
+        }
+public void changecolor(Color asd)
+        {
+            this.BackColor = asd;
+        }

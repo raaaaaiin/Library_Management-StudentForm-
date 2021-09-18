@@ -1,0 +1,17 @@
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.Books.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.booksDesc.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.confirmBorrow.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.confirmReturn.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.dbConfiguration.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.menu.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.logIn.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.profileForm.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.borrowedBooks.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.returnBox.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.showBooks.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Library_Management.stdprevilages.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Student_library.Properties.Resources.resources
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Student_Library.csproj.GenerateResource.cache
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Student_Library.csproj.CoreCompileInputs.cache
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Student Library.exe
+G:\Library_Management(studentform)\Library_Management\obj\Debug\Student Library.pdb
